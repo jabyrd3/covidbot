@@ -1,0 +1,27 @@
+{
+  "name": "tempdoug",
+  "version": "0.0.1",
+  "description": "temporary twitterexpander for irc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jabyrd3/tempdoug.git"
+  },
+  "author": "jordan byrd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jabyrd3/tempdoug/issues"
+  },
+  "homepage": "https://github.com/jabyrd3/tempdoug#readme",
+  "dependencies": {
+    "irc": "^0.5.2",
+    "lodash.sortby": "^4.7.0",
+    "mastodon": "^1.2.2",
+    "node-bypasser": "^1.7.0",
+    "nodemon": "^1.19.2",
+    "twitter": "^1.7.0"
+  }
+}
